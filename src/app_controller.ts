@@ -16,7 +16,8 @@ export class AppController
       this.heartbeat();
     }
 
-    private eventLoop() {
+    private eventLoop()
+    {
       // Waits for a game to get selected
       if (!this._gameInstance.isSelected())
       {
