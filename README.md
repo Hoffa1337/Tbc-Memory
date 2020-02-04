@@ -18,3 +18,8 @@ https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-progra
 More offsets & pointers:
 
 https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/wow-memory-editing/158041-2-4-3-offsets-pointers-2.html
+
+
+Some structs & offsets:
+
+https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/wow-memory-editing/158041-2-4-3-offsets-pointers-4.html#post3758768
